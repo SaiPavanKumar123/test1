@@ -1,0 +1,11 @@
+com\book\BookPublisher\models\Publisher.class
+com\book\BookPublisher\configuration\BookConfiguration.class
+com\book\BookPublisher\contractors\IRepository.class
+com\book\BookPublisher\rowmappers\PubliserRowMapper.class
+com\book\BookPublisher\rowmappers\BookRowMapper.class
+com\book\BookPublisher\models\Books.class
+com\book\BookPublisher\BookPublisherApplication.class
+com\book\BookPublisher\repositories\BookRepository.class
+com\book\BookPublisher\contractors\IDAO.class
+com\book\BookPublisher\daos\BookDAO.class
+com\book\BookPublisher\controllers\BookController.class
